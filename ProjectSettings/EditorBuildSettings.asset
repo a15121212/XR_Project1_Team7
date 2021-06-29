@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/school.unity
+    guid: b79763316bc3e1349ba1a2d5bfc163fb
+  - enabled: 1
+    path: Assets/grandma/grandma/grandma/grandma.unity
+    guid: d558f34a3c57a88498bfdad77f49a993
+  - enabled: 1
+    path: Assets/school 2/school/scholl.unity
+    guid: 20c1bde2009d31e4e961effdea0df36e
+  - enabled: 1
+    path: Assets/grandma/grandma/grandma/grandma-2.unity
+    guid: 2d06eb753fe282b49ab1b8cf85ac47cf
+  - enabled: 1
+    path: Assets/school 2/school/scholl_2.unity
+    guid: 0f59272881b159c478812eb4a5e62272
+  - enabled: 1
+    path: Assets/grandma/grandma/grandma/grandma-3.unity
+    guid: 228177e8d51f5de478a4dbb22eff3e19
+  - enabled: 1
+    path: Assets/school 2/school/scholl_3.unity
+    guid: 3460f812cbc46784ebc6d08f0c26e9ab
+  - enabled: 1
+    path: Assets/grandma/grandma/grandma/grandma-4.unity
+    guid: a24c9f6c4d13fc341882e6cbfa3e41ba
+  - enabled: 1
+    path: Assets/Scenes/Animation/OpeningAnimation.unity
+    guid: 416f0ad8cfcd858499998c3bc2d7daec
+  - enabled: 1
+    path: Assets/Scenes/Animation/Animation-confession.unity
+    guid: 252be4ec6b7fabe41a1c7a804e7acd8d
+  - enabled: 1
+    path: Assets/Scenes/Animation/Animation-dig.unity
+    guid: 2fc2d4c5cabe1cc4192e65ab1ee10ca1
+  - enabled: 1
+    path: Assets/Scenes/Animation/Animation-PassAway.unity
+    guid: 7d1d0f7f8bd4c164d9736ad1504c9206
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: b5761f0d6497a1a4c928ff2fad4c40f0,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0f4fe809c9965754b8029a3c9058ae03,
+      type: 2}
